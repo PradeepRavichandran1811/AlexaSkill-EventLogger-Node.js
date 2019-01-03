@@ -1,7 +1,10 @@
 Event Logger saves all the events with event name, person, date and time when given by the user after invocation. It will be more like conversing with your personal assistant who takes care of Event Management. Event Logger can help you in keeping track of important Events in your life.
  
 Sample Invocation : "Alexa, open Event Logger".
+
 Invocation Name: "Event Logger".
+
+Alexa Skill URL: https://www.amazon.com/Pradeep-Ravichandran-Event-Logger/dp/B07MH9KKWB/ref=sr_1_1?ie=UTF8&qid=1546492564&sr=8-1&keywords=event+logger+alexa+skill
 
 HOW IT WORKS:
 1. To get started, you simply say 'Open Event Logger' and It will first ask you for the operation to perform: Add, Retrieve or Delete.
